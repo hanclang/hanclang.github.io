@@ -4,8 +4,32 @@
 .src-layouts-index__layout--EVKxQ .ant-layout-content {
   padding: 16px;
 }
+.src-layouts-index__layout--EVKxQ .ant-layout-header {
+  height: 48px;
+  background-color: #fff;
+  margin-bottom: 2px;
+  line-height: 1;
+  -ms-flex-align: center;
+      align-items: center;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: justify;
+      justify-content: space-between;
+  padding: 0 15px;
+}
+.src-layouts-index__layout--EVKxQ .ant-layout-header .ant-btn {
+  height: 28px;
+  font-size: 12px;
+  padding: 4px 10px;
+}
 .src-layouts-index__leftSider--Y1lp7 .ant-collapse-content > .ant-collapse-content-box {
   padding: 10px !important;
+}
+.src-layouts-index__leftSider--Y1lp7 .ant-collapse > .ant-collapse-item {
+  font-size: 12px;
+}
+.src-layouts-index__leftSider--Y1lp7 .ant-collapse > .ant-collapse-item .ant-collapse-header {
+  color: rgba(0, 0, 0, 0.6);
 }
 .src-layouts-index__siderBackground--EJLX7 {
   background: #fff !important;
