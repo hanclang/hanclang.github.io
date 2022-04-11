@@ -36,6 +36,7 @@
   padding: 8px;
   font-size: 12px;
   color: rgba(0, 0, 0, 0.6);
+  overflow: auto;
 }
 .src-layouts-index__siderBackground--EJLX7 .ant-btn,
 .src-layouts-index__siderBackground--EJLX7 .ant-form-item-label > label {
