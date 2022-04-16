@@ -1,3 +1,7 @@
+.src-layouts-index__sizeAndColor--WByGW {
+  font-size: 12px;
+  color: rgba(0, 0, 0, 0.6);
+}
 .src-layouts-index__layout--EVKxQ {
   height: 100vh;
 }
@@ -40,6 +44,10 @@
   font-size: 12px;
   color: rgba(0, 0, 0, 0.6);
   overflow: auto;
+}
+.src-layouts-index__siderBackground--EJLX7 span {
+  font-size: 12px;
+  color: rgba(0, 0, 0, 0.6);
 }
 .src-layouts-index__siderBackground--EJLX7 .ant-btn,
 .src-layouts-index__siderBackground--EJLX7 .ant-form-item-label > label {
@@ -116,5 +124,47 @@
 }
 .src-components-DropContainer-index__draggable--lYIGo {
   border: 1px dashed #ccbef7;
+}
+
+.src-components-DropComponent-index__border--jbSZt {
+  border: 1px dashed red;
+}
+.src-components-DropComponent-index__positionLine--VuN1g {
+  content: " ";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  background: red;
+  left: 0;
+  display: block;
+  opacity: 1;
+}
+.src-components-DropComponent-index__line--lf4nq.src-components-DropComponent-index__lineTop--d2ey2 {
+  position: relative;
+}
+.src-components-DropComponent-index__line--lf4nq.src-components-DropComponent-index__lineTop--d2ey2::before {
+  content: " ";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  background: red;
+  left: 0;
+  display: block;
+  opacity: 1;
+  top: 0;
+}
+.src-components-DropComponent-index__line--lf4nq.src-components-DropComponent-index__lineBottom--XjLXT {
+  position: relative;
+}
+.src-components-DropComponent-index__line--lf4nq.src-components-DropComponent-index__lineBottom--XjLXT::after {
+  content: " ";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  background: red;
+  left: 0;
+  display: block;
+  opacity: 1;
+  bottom: 0;
 }
 
