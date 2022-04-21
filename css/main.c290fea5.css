@@ -127,7 +127,7 @@
 }
 
 .src-components-DropComponent-index__border--jbSZt {
-  border: 1px dashed red;
+  border: 1px dashed red !important;
 }
 .src-components-DropComponent-index__positionLine--VuN1g {
   content: " ";
