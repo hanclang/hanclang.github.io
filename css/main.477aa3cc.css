@@ -90,6 +90,7 @@
   height: 100%;
   position: relative;
   padding: 6px;
+  border: 1px solid transparent;
 }
 .src-components-DropContainer-index__container--TLfKg .src-components-DropContainer-index__layoutBorder--u3L5c {
   top: 0;
